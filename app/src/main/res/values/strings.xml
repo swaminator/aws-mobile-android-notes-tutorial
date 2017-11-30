@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Notes</string>
     <string name="title_note_detail">Note Detail</string>
+    <string name="title_activity_authenticator">AuthenticatorActivity</string>
 </resources>
