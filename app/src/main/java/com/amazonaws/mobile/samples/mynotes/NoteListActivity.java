@@ -61,7 +61,7 @@ public class NoteListActivity
     /**
      * The listview
      */
-    RecyclerView notesList;
+    RecyclerView notesList; 
 
     /**
      * The Add New Note button
